@@ -1,7 +1,2 @@
-# Equipo TU_EQUIPO
-
-Aquí deberás escribir toda la información de tu proyecto.
-
-Antes de comenzar, por favor revisa las [las instrucciones](INSTRUCTIONS.md).
-
-![Hack Hero gif](https://media.giphy.com/media/IbHp2s31XVjCyfGZ5L/giphy.gif)
+# Marchante
+App para fortalecer la economía local mexicana de manera colaborativa para que sus micro negocios, que viven al día, se conviertan en negocios medianos a pesar de la recesión económica y las limitantes de la pandemia.
